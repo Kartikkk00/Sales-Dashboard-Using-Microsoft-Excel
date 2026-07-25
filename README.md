@@ -113,8 +113,7 @@ Excel Formulas
 Interactive Reporting
 
 11. Dashboard Preview
-[images/Sales Dashboard.png](https://github.com/Kar098765/Sales-Dashboard-/blob/main/Sales%20Dashboard.png)
-
+[images/Sales Dashboard.png](https://github.com/Kartikkk00/Sales-Dashboard-Using-Microsoft-Excel/blob/main/Excel%20Dashboard.png)
 
 ⭐ Key Highlights
 Built an interactive sales dashboard using Microsoft Excel.
